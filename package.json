@@ -18,6 +18,7 @@
   },
   "homepage": "https://github.com/milenaggoes/teste-ui#readme",
   "dependencies": {
+    "@faker-js/faker": "^7.6.0",
     "cypress": "^8.0.0"
   }
 }
