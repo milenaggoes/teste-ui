@@ -22,4 +22,11 @@ describe('Funcionalidade Página de Produtos', () => {
 
     });
 
+    it('Deve adicionar produtos ao carrinho - Usando comando customizado', () => {
+        cy.addProdutos('Abominable Hoodie', 'XL', 'Red', 1)
+    });
+
+    it('Deve adicionar produtos ao carrinho - Usando comando customizado', () => {
+        cy.addProdutos('Aero Daily Fitness Tee', 'M', 'Black', 3)
+    });
 });
