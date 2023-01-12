@@ -1,11 +1,11 @@
 class EnderecoPage{
 
-    editarEnderecoFaturamento({
+    editarEnderecoFaturamento() {
         //elementos + ações
-    })
-    editarEnderecoEntrega({
+    }
+    editarEnderecoEntrega() {
         //elementos + ações
-    })
+    }
 }
 
 export default new EnderecoPage()
