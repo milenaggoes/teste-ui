@@ -1,0 +1,35 @@
+[
+    {
+        "nome": "Ana",
+        "sobrenome": "Lucia",
+        "empresa":"EBAC",
+        "endereco":"Av.Paulista",
+        "numero":"2000",
+        "pais":"Brasil",
+        "cidade":"São Paulo",
+        "estado":"São Paulo",
+        "cep":"51476523"
+    },
+    {
+        "nome": "Maria",
+        "sobrenome": "Silva",
+        "empresa":"CABE",
+        "endereco":"Av.das Flores",
+        "numero":"1120",
+        "pais":"Brasil",
+        "cidade":"Rio de Janeiro",
+        "estado":"Rio de Janeiro",
+        "cep":"12546325"
+    },
+    {
+        "nome": "Mario",
+        "sobrenome": "Ayko",
+        "empresa":"MUS",
+        "endereco":"Av.Joaquim",
+        "numero":"875",
+        "pais":"Brasil",
+        "cidade":"São Paulo",
+        "estado":"São Paulo",
+        "cep":"25478963"
+    }
+]
